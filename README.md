@@ -56,7 +56,9 @@ We completed the project with the following steps:
 1. Performing `Exploratory Data Analysis` (EDA)
 2. `Visualizing` the data
 3. `Preprocessing` the Data (One-Hot encoding)
-4. Machine Learning models
+4. Machine Learning models -
+* Logistic regression
+* Decision Trees
 5. Evaluating `Model Performance`
 
 ## CONCLUSION
