@@ -15,6 +15,8 @@ It’s a lot of work for an organ which is just like a large fist and weighs bet
 
 ## DATA DESCRIPTION
 
+The dataset is collected from UCI Repository  - <a href = 'https://archive.ics.uci.edu/ml/datasets/Heart+Disease'>https://archive.ics.uci.edu/ml/datasets/Heart+Disease</a>
+
 1. age: The person’s age in years
 2. sex: The person’s sex (1 = male, 0 = female)
 3. cp: chest pain type
